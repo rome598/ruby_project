@@ -1,0 +1,4 @@
+{:name=>"creating", :state=>0}
+{:name=>"editing", :state=>1}
+{:name=>"finished", :state=>2}
+{:name=>"other", :state=>1}
